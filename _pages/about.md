@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "About Me"
+title: "Homepage"
 excerpt: "Soheil Kolouri"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+## About Me
 
 I am a research scientist at HRL Laboratories, Malibu, CA. My research lies in the intersection of applied mathematics, machine learning, and computer vision. Before joining HRL, I was a post-doctoral researcher at Carnegie Melon University. I received my Ph.D. in Biomedical Engineering from Carnegie Mellon University, where I received the Bertucci Fellowship Award for outstanding graduate students from the College of Engineering in 2014, and the Outstanding Dissertation Award from the Biomedical Engineering Department in 2015.
 
@@ -22,7 +23,6 @@ I am a research scientist at HRL Laboratories, Malibu, CA. My research lies in t
 - We are presenting our paper ["Multi-Agent Distributed Lifelong Learning for Collective Knowledge Acquisition"](http://ifaamas.org/Proceedings/aamas2018/pdfs/p712.pdf) at AAMAS2018 - July 2018
 - We are presenting two papers at CVPR2018 [paper 1](http://openaccess.thecvf.com/content_cvpr_2018/papers/Murez_Image_to_Image_CVPR_2018_paper.pdf) [paper 2](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3352.pdf) - June 2018
 - I received my second IR&D Research Award at HRL Laboratories for our Deep Sense Learning (DSL) project - June 2018
-- Our tutorial on ["Optimal Transport in Biomedical Imaging"](https://biomedicalimaging.org/2018/tutorials/) at the IEEE International Symposium on Biomedical Imaging (ISBI) was an absolute success. 
+- Our tutorial on ["Optimal Transport in Biomedical Imaging"](https://biomedicalimaging.org/2018/tutorials/) at the IEEE International Symposium on Biomedical Imaging (ISBI) was an absolute success.
 - We are presenting our paper ["Joint Dictionaries for Zero-Shot Learning"](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16404/16723) at AAAI'18 - February 2018
 </details>
-
