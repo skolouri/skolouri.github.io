@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Homepage"
+title: "About Me"
 excerpt: "Soheil Kolouri"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-## About Me
 
 I am a research scientist at HRL Laboratories, Malibu, CA. My research lies in the intersection of applied mathematics, machine learning, and computer vision. Before joining HRL, I was a post-doctoral researcher at Carnegie Melon University. I received my Ph.D. in Biomedical Engineering from Carnegie Mellon University, where I received the Bertucci Fellowship Award for outstanding graduate students from the College of Engineering in 2014, and the Outstanding Dissertation Award from the Biomedical Engineering Department in 2015.
 
