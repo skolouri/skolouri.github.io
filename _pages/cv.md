@@ -13,7 +13,7 @@ Contact
 ======
 
 * Email: skolouri at hrl dot com (or) firstname dot lastname at gmail dot com 
-* Address: HRL Laboratories, LLC, 3011 Malibu Canyon Rd, Building 254, Room 3G23, Malibu, CA, 20265 USA
+* Address: HRL Laboratories, LLC, 3011 Malibu Canyon Rd, Building 254, Room 3G12, Malibu, CA, 20265 USA
 * Work:  +1 (300) 317 5182
 
 Education
