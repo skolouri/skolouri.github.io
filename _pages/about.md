@@ -12,7 +12,8 @@ I am a research scientist at HRL Laboratories, Malibu, CA. My research lies in t
 
 ## News
 
-- I will give an ECE Graduate Seminar talk at Carnegie Mellon University on Feb 14'th, 2019, on the topic of ["Generalized Sliced-Wasserstein Distances and Their Applications in Generative Modeling and Transfer Learning"](https://www.ece.cmu.edu/news-and-events/seminars.html).
+- Our paper "Explainability Methods for Graph Convolutional Neural Networks," got accepted to CVPR'19 - Feb 24 2019.
+- I gave an ECE Graduate Seminar talk at Carnegie Mellon University on Feb 14'th, 2019, on the topic of ["Generalized Sliced-Wasserstein Distances and Their Applications in Generative Modeling and Transfer Learning"](https://www.ece.cmu.edu/news-and-events/seminars.html).
 - Our paper ["Sliced Wasserstein Auto-Encoders"](https://openreview.net/pdf?id=H1xaJn05FQ) got accepted to ICLR'19 - Dec 21 2018
 - Our paper ["Discovering Molecular Functional Groups Using Graph Convolutional Neural Networks"](https://arxiv.org/pdf/1812.00265.pdf) is now available on arXiv - Dec 6 2018
 - Our proposal titled, ['Super-Turing Evolving Lifelong Learning ARchitecture (STELLAR)'](http://www.hrl.com/news/2018/07/19/stellar-system-will-enable-autonomous-systems-to-learn-for-life), was funded by DARPA. Dr. Hava Siegelmann is the program manager leading the Lifelong Learning Machines (L2M) program at DARPA. The HRL team is led by Dr. Praveen Pilly and I and consists of academic members from six world-renowned universities - July 2018
