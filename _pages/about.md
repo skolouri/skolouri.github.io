@@ -13,7 +13,7 @@ I am a research scientist at HRL Laboratories, Malibu, CA. My research lies in t
 ## News
 
 - We presented our Sliced-Wasserstein Auto-Encoder paper in ICLR'19, New Orleans, USA - May 9 2019.
-- I gave a talk on `Optimal Transport in Biomedical Imaging' in the British Applied Mathematics Colloquium 2019 (BAMC'19), at Unviersity of Bath, UK - April 25 2019. ([slides](https://github.com/skolouri/BAMC2019)
+- I gave a talk on `Optimal Transport in Biomedical Imaging' in the British Applied Mathematics Colloquium 2019 (BAMC'19), at Unviersity of Bath, UK - April 25 2019. ([slides](https://github.com/skolouri/BAMC2019))
 - I gave a talk on `Generalized Sliced-Wasserstein Distances' in the Department of Applied Mathematics  at University of Cambridge, UK - April 23 2019.
 - Our paper "Explainability Methods for Graph Convolutional Neural Networks," got accepted to CVPR'19 for an oral presentation (Acceptance Rate 5.5%) - March 2 2019.
 
