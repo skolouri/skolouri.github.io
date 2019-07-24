@@ -12,14 +12,17 @@ I am a research scientist at HRL Laboratories, Malibu, CA. My research lies in t
 
 ## News
 
-- We presented our Sliced-Wasserstein Auto-Encoder paper in ICLR'19, New Orleans, USA - May 9 2019.
+- We presented our paper `[Explainability Methods for Graph Convolutional Neural Networks](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)' in CVPR'19 (Oral presentation), Long Beach, CA, USA - June 20 2019.
+- We presented our paper `[SAR Image Classification Using Few-Shot Cross-Domain Transfer Learning](http://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Rostami_SAR_Image_Classification_Using_Few-Shot_Cross-Domain_Transfer_Learning_CVPRW_2019_paper.pdf)' in CVPRW'19 (Oral presentation), Long Beach, CA, USA - June 16 2019.
+- Our paper on `[Deep Transfer Learning for Few-Shot SAR Image Classification](https://www.preprints.org/manuscript/201905.0030/v1)' got accepted to the IEEE Journal of Remote Sensing.
+- We presented our `[Sliced-Wasserstein Auto-Encoder](https://openreview.net/pdf?id=H1xaJn05FQ)' paper in ICLR'19, New Orleans, LA, USA - May 9 2019.
 - I gave a talk on `Optimal Transport in Biomedical Imaging' in the British Applied Mathematics Colloquium 2019 (BAMC'19), at Unviersity of Bath, UK - April 25 2019. ([slides](https://github.com/skolouri/BAMC2019))
 - I gave a talk on `Generalized Sliced-Wasserstein Distances' in the Department of Applied Mathematics  at University of Cambridge, UK - April 23 2019.
-- Our paper "Explainability Methods for Graph Convolutional Neural Networks," got accepted to CVPR'19 for an oral presentation (Acceptance Rate 5.5%) - March 2 2019.
 
 <details>
 <summary>show more</summary>
 
+- I gave an ECE Graduate Seminar talk at Carnegie Mellon University on Feb 14, 2019, on the topic of "Generalized Sliced-Wasserstein Distances and Their Applications in Generative Modeling and Transfer Learning".
 - I gave an ECE Graduate Seminar talk at Carnegie Mellon University on Feb 14, 2019, on the topic of ["Generalized Sliced-Wasserstein Distances and Their Applications in Generative Modeling and Transfer Learning"](https://www.ece.cmu.edu/news-and-events/seminars.html).
 - Our paper ["Sliced Wasserstein Auto-Encoders"](https://openreview.net/pdf?id=H1xaJn05FQ) got accepted to ICLR'19 - Dec 21 2018
 - Our paper ["Discovering Molecular Functional Groups Using Graph Convolutional Neural Networks"](https://arxiv.org/pdf/1812.00265.pdf) is now available on arXiv - Dec 6 2018
