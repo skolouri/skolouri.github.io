@@ -5,9 +5,28 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2019 
+
+- Kolouri, Soheil, Kimia Nadjahi, Umut Simsekly, Roland Badeau, and Gustavo K. Rohde. "Generalized Sliced-Wasserstein Distances." Accepted to NeurIPS (2019). [[paper]](https://arxiv.org/pdf/1902.00434.pdf)
+- Phillip E. Pope, Soheil Kolouri, Mohammad Rostami, Charles E. Martin, and Heiko Hoffmann. "Explainability Methods for Graph Convolutional Neural Networks." *CVPR* (2019). [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
+- Rostami, Mohammad, Soheil Kolouri, Eric Eaton, and Kyungnam Kim. "SAR Image Classification Using Few-Shot Cross-Domain Transfer Learning."  *CVPR-W*, (2019). [[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Rostami_SAR_Image_Classification_Using_Few-Shot_Cross-Domain_Transfer_Learning_CVPRW_2019_paper.pdf) 
+- Kolouri, Soheil, Phillip E. Pope, Charles E. Martin, and Gustavo K. Rohde. "Sliced-Wasserstein Autoencoders." *ICLR* (2019). [[paper]](https://openreview.net/pdf?id=H1xaJn05FQ) [[code]](https://github.com/skolouri/swae)
+- Rostami, Mohammad, Soheil Kolouri, Eric Eaton, and Kyungnam Kim. "Deep Transfer Learning for Few-Shot SAR Image Classification." *Remote Sensing* 11, no. 11 (2019): 1374. [[paper]](https://www.mdpi.com/2072-4292/11/11/1374)
+- Rostami, Mohammad, Soheil Kolouri, and Praveen K. Pilly. "Complementary Learning for Overcoming Catastrophic Forgetting  Using Experience Replay." IJCAI (2019) [[paper]](https://www.ijcai.org/proceedings/2019/463)
+- Gabourie, Alex, Mohammad Rostami, Philip Pope, Soheil Kolouri, and Kyungnam Kim. "Learning a Domain-Invariant Embedding for Unsupervised Domain Adaptation Using Class-Conditioned Distribution Alignment." *Allerton Conference* (2019). [[paper]](https://arxiv.org/pdf/1907.02271.pdf)
+- Mohammadi, Javad, and Soheil Kolouri. "Collaborative Learning through Shared Knowledge and Local Expertise." MLSP Conference (2019).
+- Ladosz, Pawel, Eseoghene Ben-Iwhiwhu, Yang Hu, Nicholas Ketz, Soheil Kolouri, Jeffrey L. Krichmar, Praveen Pilly, and Andrea Soltoggio. "Deep Reinforcement Learning with Modulated Hebbian plus Q Network Architecture." *arXiv preprint arXiv:1909.09902* (2019). [[paper]](https://arxiv.org/pdf/1909.09902.pdf)
+- Kolouri, Soheil, Xuwang Yin, and Gustavo K. Rohde. "Neural Networks, Hypersurfaces, and Radon Transforms." *arXiv preprint arXiv:1907.02220* (2019). [[paper]](https://arxiv.org/pdf/1907.02220.pdf)
+- Yin, Xuwang, Soheil Kolouri, and Gustavo K. Rohde. "Divide-and-Conquer Adversarial Detection." *arXiv preprint arXiv:1905.11475* (2019). [[paper]](https://arxiv.org/pdf/1905.11475.pdf)
+- Kolouri, Soheil, Aniruddha Saha, Hamed Pirsiavash, and Heiko Hoffmann. "Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs." *arXiv preprint arXiv:1906.10842*(2019). [[paper]](https://arxiv.org/pdf/1906.10842.pdf)
+- Ketz, Nicholas, Soheil Kolouri, and Praveen Pilly. "Using World Models for Pseudo-Rehearsal in Continual Learning." *arXiv preprint arXiv:1903.02647* (2019). [[paper]](https://arxiv.org/pdf/1903.02647.pdf)
+- Kolouri, Soheil, Nicholas Ketz, Xinyun Zou, Jeffrey Krichmar, and Praveen Pilly. "Attention-Based Structural-Plasticity." *arXiv preprint arXiv:1903.06070* (2019). [[paper]](https://arxiv.org/pdf/1903.06070.pdf)
+- Shahrampour, Shahin, and Soheil Kolouri. "On Sampling Random Features From Empirical Leverage Scores: Implementation and Theoretical Guarantees." *arXiv preprint arXiv:1903.08329* (2019). [[paper]](https://arxiv.org/pdf/1903.08329.pdf)
+- Rostami, Mohammad, Soheil Kolouri, James McClelland, and Praveen Pilly. "Generative Continual Concept Learning." *arXiv preprint arXiv:1906.03744* (2019). [[paper]](https://arxiv.org/pdf/1906.03744.pdf)
+- Zou, Xinyun, Soheil Kolouri, Praveen K. Pilly, and Jeffrey L. Krichmar. "Neuromodulated Goal-Driven Perception in Uncertain Domains." *arXiv preprint arXiv:1903.00068* (2019). [[paper]](https://arxiv.org/abs/1903.00068)
+
 ## 2018
 
-- Kolouri, Soheil, Phillip E. Pope, Charles E. Martin, and Gustavo K. Rohde. "Sliced-Wasserstein Autoencoders" *ICLR'19* (2018). [[paper]](https://openreview.net/pdf?id=H1xaJn05FQ) [[code]](https://github.com/skolouri/swae)
 - Pope, Phillip, Soheil Kolouri, Mohammad Rostrami, Charles Martin, and Heiko Hoffman. "Discovering Molecular Functional Groups Using Graph Convolutional Neural Networks." *arXiv preprint arXiv:1812.00265* (2018). [[paper]](https://arxiv.org/pdf/1812.00265.pdf)
 - Park, Se Rim, Soheil Kolouri, Shinjini Kundu, and Gustavo K. Rohde. "The cumulative distribution transform and linear pattern classification." *Applied and Computational Harmonic Analysis* 45, no. 3 (2018): 616-641. [[paper]](https://www.sciencedirect.com/science/article/pii/S1063520317300076) [[code]](https://github.com/skolouri/Cumulative-Distribution-Transform)
 - Rostami, Mohammad, Soheil Kolouri, Kyungnam Kim, and Eric Eaton. "Multi-Agent Distributed Lifelong Learning for Collective Knowledge Acquisition." In *Proceedings of the 17th International Conference on Autonomous Agents and MultiAgent Systems*, pp. 712-720. International Foundation for Autonomous Agents and Multiagent Systems, 2018. [[paper]](http://ifaamas.org/Proceedings/aamas2018/pdfs/p712.pdf)
