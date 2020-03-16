@@ -12,7 +12,7 @@ I am a research scientist and principal investigator at HRL Laboratories, Malibu
 
 ## News
 - Our paper `Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs' got accepted to CVPR2020 for an oral presentation - March 03 2020.
-- Our papers [`Sliced Cramer Synaptic Consolidation for Preserving Deeply Learned Representations'](https://openreview.net/forum?id=BJge3TNKwH) (Spotlight) and ['Adversarial Example Detection and Classification with Asymmetrical Adversarial Training'](https://openreview.net/forum?id=SJeQEp4YDH) (Poster) got accepted to ICLR 2020 -  Dec 20 2019. 
+- Our papers [`Sliced Cramer Synaptic Consolidation for Preserving Deeply Learned Representations'](https://openreview.net/forum?id=BJge3TNKwH) (Spotlight) and ['GAT: Generative Adversarial Training for Adversarial Example Detection and Classification'](https://openreview.net/forum?id=SJeQEp4YDH) (Poster) got accepted to ICLR 2020 -  Dec 20 2019. 
 - Our paper [`Generalized Sliced Wasserstein Distances'](https://arxiv.org/pdf/1902.00434.pdf) got accepted to NeurIPS'19, Vancouver, Canada - September 4 2019.
 - We presented our paper `[Explainability Methods for Graph Convolutional Neural Networks](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)' in CVPR'19 (Oral presentation), Long Beach, CA, USA - June 20 2019.
 - We presented our paper `[SAR Image Classification Using Few-Shot Cross-Domain Transfer Learning](http://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Rostami_SAR_Image_Classification_Using_Few-Shot_Cross-Domain_Transfer_Learning_CVPRW_2019_paper.pdf)' in CVPRW'19 (Oral presentation), Long Beach, CA, USA - June 16 2019.
