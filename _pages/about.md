@@ -11,6 +11,7 @@ redirect_from:
 I am a research scientist and principal investigator at HRL Laboratories, Malibu, CA. My research lies in the intersection of applied mathematics, machine learning, and computer vision. I am currently the PI on DARPA Learning with Less Labels (LwLL) and the Co-PI on DARPA Lifelong Learning Machines (L2M) programs. Before joining HRL, I was a post-doctoral researcher at Carnegie Melon University. I received my Ph.D. in Biomedical Engineering from Carnegie Mellon University, where I received the Bertucci Fellowship Award for outstanding graduate students from the College of Engineering in 2014, and the Outstanding Dissertation Award from the Biomedical Engineering Department in 2015.
 
 ## News
+- Our paper `Statistical and Topological Properties of Sliced Probability Divergences' got accepted to NeurIPS2020 for a spotlight presentation - Sep 25 2020.
 - Our paper `Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs' got accepted to CVPR2020 for an oral presentation - March 03 2020.
 - Our papers [`Sliced Cramer Synaptic Consolidation for Preserving Deeply Learned Representations'](https://openreview.net/forum?id=BJge3TNKwH) (Spotlight) and ['GAT: Generative Adversarial Training for Adversarial Example Detection and Classification'](https://openreview.net/forum?id=SJeQEp4YDH) (Poster) got accepted to ICLR 2020 -  Dec 20 2019. 
 - Our paper [`Generalized Sliced Wasserstein Distances'](https://arxiv.org/pdf/1902.00434.pdf) got accepted to NeurIPS'19, Vancouver, Canada - September 4 2019.
