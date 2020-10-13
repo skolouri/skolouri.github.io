@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Soheil Kolouri"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Soheil Kolouri"
 description              : &description "Research Scientist at HRL Laboratories"

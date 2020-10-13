@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "Soheil Kolouri"
+excerpt: "Home"
 author_profile: true
 redirect_from:
   - /about/
