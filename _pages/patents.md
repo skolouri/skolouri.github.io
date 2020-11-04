@@ -7,6 +7,7 @@ author_profile: true
 
 ## Granted
 
+- Martin, Charles E., Soheil Kolouri, and Heiko Hoffmann. "Method for understanding machine-learning decisions based on camera data." U.S. Patent 10,803,356, issued October 13, 2020. [[link]](https://patents.google.com/patent/US10803356B2/en)
 - Kolouri, Soheil, Amir M. Rahimi, and Rajan Bhattacharyya. "Prediction of multi-agent adversarial movements through signature-formations using radon-cumulative distribution transform and canonical correlation analysis." U.S. Patent 10,755,424, issued August 25, 2020. [[link]](https://patents.google.com/patent/US10755424B2/en)
 - Kolouri, Soheil, Shankar R. Rao, and Kyungnam Kim. "Zero shot machine vision system via joint sparse representations." U.S. Patent 10,755,149, issued August 25, 2020. [[link]](https://patents.google.com/patent/US10755149B2/en)
 - Kolouri, Soheil, Charles E. Martin, and Heiko Hoffmann. "Machine-vision system for discriminant localization of objects." U.S. Patent 10,691,972, issued June 23, 2020. [[link]](https://patents.google.com/patent/US10691972B2/en)
@@ -36,8 +37,6 @@ author_profile: true
 * Kolouri, Soheil, Mohammad Rostami, Kyungnam Kim, and Yuri Owechko. "Attribute aware zero shot machine vision system via joint sparse representations." U.S. Patent Application 16/033,638, filed January 24, 2019. [[link]](https://patents.google.com/patent/US20190025848A1/en)
 
 * Rahimi, Amir M., Soheil Kolouri, and Rajan Bhattacharyya. "System for predicting movements of an object of interest with an autoencoder." U.S. Patent Application 15/949,013, filed October 11, 2018. [[link]](https://patents.google.com/patent/US20180293736A1/en)
-
-* Martin, Charles E., Soheil Kolouri, and Heiko Hoffmann. "Method for understanding machine-learning decisions based on camera data." U.S. Patent Application 15/946,480, filed October 11, 2018. [[link]](https://patents.google.com/patent/US20180293464A1/en)
 
 * Kolouri, Soheil, Charles E. Martin, and Heiko Hoffmann. "Machine-vision method to classify input data based on object components." U.S. Patent Application 15/936,403, filed October 4, 2018. [[link]](https://patents.google.com/patent/US20180285699A1/en)
 
