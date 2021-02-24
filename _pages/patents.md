@@ -7,6 +7,7 @@ author_profile: true
 
 ## Granted
 
+- Kolouri, Soheil, Mohammad Rostami, Kyungnam Kim, and Yuri Owechko. "Attribute aware zero shot machine vision system via joint sparse representations." U.S. Patent No. 10,908,616. 2 Feb. 2021. [[link]](https://patents.google.com/patent/US10908616B2/en)
 - Martin, Charles E., Soheil Kolouri, and Heiko Hoffmann. "Method for understanding machine-learning decisions based on camera data." U.S. Patent 10,803,356, issued October 13, 2020. [[link]](https://patents.google.com/patent/US10803356B2/en)
 - Kolouri, Soheil, Amir M. Rahimi, and Rajan Bhattacharyya. "Prediction of multi-agent adversarial movements through signature-formations using radon-cumulative distribution transform and canonical correlation analysis." U.S. Patent 10,755,424, issued August 25, 2020. [[link]](https://patents.google.com/patent/US10755424B2/en)
 - Kolouri, Soheil, Shankar R. Rao, and Kyungnam Kim. "Zero shot machine vision system via joint sparse representations." U.S. Patent 10,755,149, issued August 25, 2020. [[link]](https://patents.google.com/patent/US10755149B2/en)
@@ -33,8 +34,6 @@ author_profile: true
 * Kolouri, Soheil, and Heiko Hoffmann. "System and method for estimating uncertainty of the decisions made by a supervised machine learner." U.S. Patent Application 16/262,894, filed September 26, 2019. [[link]](https://patents.google.com/patent/US20190294149A1/en)
 
 * Murez, Zachary, Soheil Kolouri, and Kyungnam Kim. "Domain adaption learning system." U.S. Patent Application 16/262,878, filed August 8, 2019. [[link]](https://patents.google.com/patent/US20190244107A1/en)
-
-* Kolouri, Soheil, Mohammad Rostami, Kyungnam Kim, and Yuri Owechko. "Attribute aware zero shot machine vision system via joint sparse representations." U.S. Patent Application 16/033,638, filed January 24, 2019. [[link]](https://patents.google.com/patent/US20190025848A1/en)
 
 * Rahimi, Amir M., Soheil Kolouri, and Rajan Bhattacharyya. "System for predicting movements of an object of interest with an autoencoder." U.S. Patent Application 15/949,013, filed October 11, 2018. [[link]](https://patents.google.com/patent/US20180293736A1/en)
 
