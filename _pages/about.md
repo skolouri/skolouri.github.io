@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<h1>The mark element</h1>
 I am a research scientist and principal investigator at HRL Laboratories, Malibu, CA. My research lies in the intersection of applied mathematics, machine learning, and computer vision. I am currently the PI on DARPA Learning with Less Labels (LwLL) and the Co-PI on DARPA Lifelong Learning Machines (L2M) programs. Before joining HRL, I was a post-doctoral researcher at Carnegie Melon University. I received my Ph.D. in Biomedical Engineering from Carnegie Mellon University, where I received the Bertucci Fellowship Award for outstanding graduate students from the College of Engineering in 2014, and the Outstanding Dissertation Award from the Biomedical Engineering Department in 2015.
 
+
+
 <mark> I will join the Computer Science Department at Vanderbilt University in Fall 2021 <mark>
+
 ## News
 - Our paper [`Wasserstein Embedding for Graph Learning'](https://openreview.net/forum?id=AAes_3W-2z) got accepted to ICLR2021 for a poster presentation - Jan 07, 2021.
 - Our paper [`Statistical and Topological Properties of Sliced Probability Divergences'](https://neurips.cc/virtual/2020/public/poster_eefc9e10ebdc4a2333b42b2dbb8f27b6.html) got accepted to NeurIPS2020 for a spotlight presentation - Sep 25, 2020.
