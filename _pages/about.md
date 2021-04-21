@@ -12,7 +12,7 @@ I am a research scientist and principal investigator at HRL Laboratories, Malibu
 
 
 
-<mark> I will join the Computer Science Department at Vanderbilt University in Fall 2021. <mark>
+<mark> I will join the Computer Science Department at Vanderbilt University as an Assistant Professor in Fall 2021. <mark>
 
 ## News
 - Our paper [`Wasserstein Embedding for Graph Learning'](https://openreview.net/forum?id=AAes_3W-2z) got accepted to ICLR2021 for a poster presentation - Jan 07, 2021.
