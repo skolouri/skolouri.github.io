@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Soheil Kolouri"
-description              : &description "Research Scientist at HRL Laboratories"
+description              : &description "Assistant Professor of Computer Science, Vanderbilt University"
 url                      : https://skolouri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "skolouri/skolouri.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Soheil Kolouri"
   avatar           : "Me_2019.png"
-  bio              : "I am a CMU alumnus and currently a research scientist and principal investigator at HRL Laboratories focusing on machine learning and computer vision. \n Email: skolouri at hrl dot com"
+  bio              : "I am an Asst. Prof. of Computer Science at VU. My lab focuses on machine learning, deep learning, and computational optimal transport. \n Email: soheil dot kolouri at vanderbilt dot edu"
   location         : "Malibu, CA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=yREBSy0AAAAJ&hl=en"
