@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Soheil Kolouri"
   avatar           : "Me_2019.png"
-  bio              : "I am an Asst. Prof. of Computer Science at VU. My lab focuses on machine learning, deep learning, and computational optimal transport. \n Email: soheil dot kolouri at vanderbilt dot edu"
-  location         : "Malibu, CA"
+  bio              : "I am an Asst. Prof. of Computer Science at VU. My lab focuses on machine learning, deep learning, and computational optimal transport."
+  location         : "Nashville, TN"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=yREBSy0AAAAJ&hl=en"
-  email            :
+  email            : "soheil dot kolouri at vanderbilt dot edu"
   researchgate     : "https://www.researchgate.net/profile/Soheil_Kolouri2"
   uri              :
   bitbucket        :
