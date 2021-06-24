@@ -8,19 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist and principal investigator at HRL Laboratories, Malibu, CA. My research lies in the intersection of applied mathematics, machine learning, and computer vision. I am currently the PI on DARPA Learning with Less Labels (LwLL) and the Co-PI on DARPA Lifelong Learning Machines (L2M) programs. Before joining HRL, I was a post-doctoral researcher at Carnegie Melon University. I received my Ph.D. in Biomedical Engineering from Carnegie Mellon University, where I received the Bertucci Fellowship Award for outstanding graduate students from the College of Engineering in 2014, and the Outstanding Dissertation Award from the Biomedical Engineering Department in 2015.
+I am an Assistant Professor of Computer Science at Vanderbilt University, Nashville, TN. I run the [Machine Intelligence and Neural Technologies (MINT) lab](http://lab.vanderbilt.edu/mint-lab), focusing on mathematical machine learning, (geometric) deep learning, and computational optimal transport. Before joining Vanderbilt University, I was a research scientist and principal investigator at HRL Laboratories, Malibu, CA, where I was the PI and Co-PI on multiple DARPA programs. I obtained my Ph.D. in Biomedical Engineering from Carnegie Mellon University, where I received the Bertucci Fellowship Award for outstanding graduate students from the College of Engineering in 2014 and the Outstanding Dissertation Award from the Biomedical Engineering Department in 2015.<br>
 
+<span style="color:red">[Open Positions]</span><br>
+I am recruiting motivated PhD students with strong mathematical background to work with me on topics aligned with my lab's ['research directions'](http://mint-vu.github.io/about/). Master’s and undergraduate students within Vanderbilt University and visiting scholars are always welcome. Please refer to my lab's [website](http://mint-vu.github.io/resources/) for more information.
 
-
-<mark> I will join the Computer Science Department at Vanderbilt University as an Assistant Professor in Fall 2021. <mark>
 
 ## News
+- I joined Vanderbilt University as an Assistant Professor of Computer Science
 - Our paper [`Wasserstein Embedding for Graph Learning'](https://openreview.net/forum?id=AAes_3W-2z) got accepted to ICLR2021 for a poster presentation - Jan 07, 2021.
 - Our paper [`Statistical and Topological Properties of Sliced Probability Divergences'](https://neurips.cc/virtual/2020/public/poster_eefc9e10ebdc4a2333b42b2dbb8f27b6.html) got accepted to NeurIPS2020 for a spotlight presentation - Sep 25, 2020.
 - I gave an ECE Seminar talk on [`Sliced Probability Metrics for Next Generation Machine Learning'](https://engineering.virginia.edu/events/ece-department-seminar-5) at University of Virginia - Sep 11, 2020.
 - I became a senior member of IEEE - Aug 17, 2020.
 - Our paper [`Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs'](https://openaccess.thecvf.com/content_CVPR_2020/html/Kolouri_Universal_Litmus_Patterns_Revealing_Backdoor_Attacks_in_CNNs_CVPR_2020_paper.html) got accepted to CVPR2020 for an oral presentation - March 03, 2020.
-- Our papers [`Sliced Cramer Synaptic Consolidation for Preserving Deeply Learned Representations'](https://openreview.net/forum?id=BJge3TNKwH) (Spotlight) and ['GAT: Generative Adversarial Training for Adversarial Example Detection and Classification'](https://openreview.net/forum?id=SJeQEp4YDH) (Poster) got accepted to ICLR 2020 -  Dec 20, 2019. 
+- Our papers [`Sliced Cramer Synaptic Consolidation for Preserving Deeply Learned Representations'](https://openreview.net/forum?id=BJge3TNKwH) (Spotlight) and ['GAT: Generative Adversarial Training for Adversarial Example Detection and Classification'](https://openreview.net/forum?id=SJeQEp4YDH) (Poster) got accepted to ICLR 2020 -  Dec 20, 2019.
 - Our paper [`Generalized Sliced Wasserstein Distances'](https://arxiv.org/pdf/1902.00434.pdf) got accepted to NeurIPS'19, Vancouver, Canada - September 4, 2019.
 - We presented our paper `[Explainability Methods for Graph Convolutional Neural Networks](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)' in CVPR'19 (Oral presentation), Long Beach, CA, USA - June 20, 2019.
 <details>
