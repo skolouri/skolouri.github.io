@@ -16,23 +16,23 @@ I am recruiting motivated PhD students with strong mathematical background to wo
 
 ## News
 - I joined Vanderbilt University as an Assistant Professor of Computer Science
-- Our paper [`Wasserstein Embedding for Graph Learning'](https://openreview.net/forum?id=AAes_3W-2z) got accepted to ICLR2021 for a poster presentation - Jan 07, 2021.
-- Our paper [`Statistical and Topological Properties of Sliced Probability Divergences'](https://neurips.cc/virtual/2020/public/poster_eefc9e10ebdc4a2333b42b2dbb8f27b6.html) got accepted to NeurIPS2020 for a spotlight presentation - Sep 25, 2020.
-- I gave an ECE Seminar talk on [`Sliced Probability Metrics for Next Generation Machine Learning'](https://engineering.virginia.edu/events/ece-department-seminar-5) at University of Virginia - Sep 11, 2020.
+- Our paper ['Wasserstein Embedding for Graph Learning'](https://openreview.net/forum?id=AAes_3W-2z) got accepted to ICLR2021 for a poster presentation - Jan 07, 2021.
+- Our paper ['Statistical and Topological Properties of Sliced Probability Divergences'](https://neurips.cc/virtual/2020/public/poster_eefc9e10ebdc4a2333b42b2dbb8f27b6.html) got accepted to NeurIPS2020 for a spotlight presentation - Sep 25, 2020.
+- I gave an ECE Seminar talk on ['Sliced Probability Metrics for Next Generation Machine Learning'](https://engineering.virginia.edu/events/ece-department-seminar-5) at University of Virginia - Sep 11, 2020.
 - I became a senior member of IEEE - Aug 17, 2020.
-- Our paper [`Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs'](https://openaccess.thecvf.com/content_CVPR_2020/html/Kolouri_Universal_Litmus_Patterns_Revealing_Backdoor_Attacks_in_CNNs_CVPR_2020_paper.html) got accepted to CVPR2020 for an oral presentation - March 03, 2020.
-- Our papers [`Sliced Cramer Synaptic Consolidation for Preserving Deeply Learned Representations'](https://openreview.net/forum?id=BJge3TNKwH) (Spotlight) and ['GAT: Generative Adversarial Training for Adversarial Example Detection and Classification'](https://openreview.net/forum?id=SJeQEp4YDH) (Poster) got accepted to ICLR 2020 -  Dec 20, 2019.
-- Our paper [`Generalized Sliced Wasserstein Distances'](https://arxiv.org/pdf/1902.00434.pdf) got accepted to NeurIPS'19, Vancouver, Canada - September 4, 2019.
+- Our paper ['Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs'](https://openaccess.thecvf.com/content_CVPR_2020/html/Kolouri_Universal_Litmus_Patterns_Revealing_Backdoor_Attacks_in_CNNs_CVPR_2020_paper.html) got accepted to CVPR2020 for an oral presentation - March 03, 2020.
+- Our papers ['Sliced Cramer Synaptic Consolidation for Preserving Deeply Learned Representations'](https://openreview.net/forum?id=BJge3TNKwH) (Spotlight) and ['GAT: Generative Adversarial Training for Adversarial Example Detection and Classification'](https://openreview.net/forum?id=SJeQEp4YDH) (Poster) got accepted to ICLR 2020 -  Dec 20, 2019.
+- Our paper ['Generalized Sliced Wasserstein Distances'](https://arxiv.org/pdf/1902.00434.pdf) got accepted to NeurIPS'19, Vancouver, Canada - September 4, 2019.
 - We presented our paper `[Explainability Methods for Graph Convolutional Neural Networks](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)' in CVPR'19 (Oral presentation), Long Beach, CA, USA - June 20, 2019.
 <details>
 <summary>show more</summary>
-- We presented our paper `[SAR Image Classification Using Few-Shot Cross-Domain Transfer Learning](http://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Rostami_SAR_Image_Classification_Using_Few-Shot_Cross-Domain_Transfer_Learning_CVPRW_2019_paper.pdf)' in CVPRW'19 (Oral presentation), Long Beach, CA, USA - June 16 2019.
-- Our paper on `[Deep Transfer Learning for Few-Shot SAR Image Classification](https://www.preprints.org/manuscript/201905.0030/v1)' got accepted to the IEEE Journal of Remote Sensing.
+- We presented our paper ['SAR Image Classification Using Few-Shot Cross-Domain Transfer Learning'](http://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Rostami_SAR_Image_Classification_Using_Few-Shot_Cross-Domain_Transfer_Learning_CVPRW_2019_paper.pdf) in CVPRW'19 (Oral presentation), Long Beach, CA, USA - June 16 2019.
+- Our paper on ['Deep Transfer Learning for Few-Shot SAR Image Classification'](https://www.preprints.org/manuscript/201905.0030/v1) got accepted to the IEEE Journal of Remote Sensing.
 
-- We presented our `[Sliced-Wasserstein Auto-Encoder](https://openreview.net/pdf?id=H1xaJn05FQ)' paper in ICLR'19, New Orleans, LA, USA - May 9, 2019.
+- We presented our ['Sliced-Wasserstein Auto-Encoder'](https://openreview.net/pdf?id=H1xaJn05FQ) paper in ICLR'19, New Orleans, LA, USA - May 9, 2019.
 
-- I gave a talk on `Optimal Transport in Biomedical Imaging' in the British Applied Mathematics Colloquium 2019 (BAMC'19), at Unviersity of Bath, UK - April 25, 2019. ([slides](https://github.com/skolouri/BAMC2019))
-- I gave a talk on `Generalized Sliced-Wasserstein Distances' in the Department of Applied Mathematics  at University of Cambridge, UK - April 23, 2019.
+- I gave a talk on 'Optimal Transport in Biomedical Imaging' in the British Applied Mathematics Colloquium 2019 (BAMC'19), at Unviersity of Bath, UK - April 25, 2019. ([slides](https://github.com/skolouri/BAMC2019))
+- I gave a talk on 'Generalized Sliced-Wasserstein Distances' in the Department of Applied Mathematics  at University of Cambridge, UK - April 23, 2019.
 
 - I gave an ECE Graduate Seminar talk at Carnegie Mellon University on Feb 14, 2019, on the topic of ["Generalized Sliced-Wasserstein Distances and Their Applications in Generative Modeling and Transfer Learning"](https://www.ece.cmu.edu/news-and-events/seminars.html).
 - Our paper ["Sliced Wasserstein Auto-Encoders"](https://openreview.net/pdf?id=H1xaJn05FQ) got accepted to ICLR'19 - Dec 21, 2018
