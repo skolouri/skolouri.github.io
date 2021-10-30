@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ## Granted
-
+- Kolouri, Soheil. "System and method for direct learning from raw tomographic data." U.S. Patent 11,037,030, issued June 15, 2021. [[link]](https://patents.google.com/patent/US11037030B1/en)
+- Kolouri, Soheil, Charles E. Martin, and Heiko Hoffmann. "Machine-vision method to classify input data based on object components." U.S. Patent 11,023,789, issued June 1, 2021. [[link]](https://patents.google.com/patent/US11023789B2/en)
 - Kolouri, Soheil, Mohammad Rostami, Kyungnam Kim, and Yuri Owechko. "Attribute aware zero shot machine vision system via joint sparse representations." U.S. Patent No. 10,908,616. 2 Feb. 2021. [[link]](https://patents.google.com/patent/US10908616B2/en)
 - Martin, Charles E., Soheil Kolouri, and Heiko Hoffmann. "Method for understanding machine-learning decisions based on camera data." U.S. Patent 10,803,356, issued October 13, 2020. [[link]](https://patents.google.com/patent/US10803356B2/en)
 - Kolouri, Soheil, Amir M. Rahimi, and Rajan Bhattacharyya. "Prediction of multi-agent adversarial movements through signature-formations using radon-cumulative distribution transform and canonical correlation analysis." U.S. Patent 10,755,424, issued August 25, 2020. [[link]](https://patents.google.com/patent/US10755424B2/en)
@@ -38,5 +39,3 @@ author_profile: true
 * Rahimi, Amir M., Soheil Kolouri, and Rajan Bhattacharyya. "System for predicting movements of an object of interest with an autoencoder." U.S. Patent Application 15/949,013, filed October 11, 2018. [[link]](https://patents.google.com/patent/US20180293736A1/en)
 
 * Kolouri, Soheil, Charles E. Martin, and Heiko Hoffmann. "Machine-vision method to classify input data based on object components." U.S. Patent Application 15/936,403, filed October 4, 2018. [[link]](https://patents.google.com/patent/US20180285699A1/en)
-
-  
