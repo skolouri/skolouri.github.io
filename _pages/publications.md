@@ -4,6 +4,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2021
+- Naderializadeh, Navid, Comer, Joseph F., Reed W. Andrews, Hoffmann, Heiko, and Soheil Kolouri. "Pooling by Sliced Wasserstein Embedding" NeurIPS, 2021.
+
+- Li, Haoran, Aditya Krishnan, Jingfeng Wu, Soheil Kolouri, Praveen K. Pilly, and Vladimir Braverman. "Lifelong Learning with Sketched Structural Regularization." ACML, 2021. [[paper]](https://arxiv.org/pdf/2104.08604.pdf)
+
+- Yin, Xuwang, Abu Hasnat Mohammad Rubaiyat, Shiying Li, Soheil Kolouri, Akram Aldroubi, Jonathan M. Nichols, and Gustavo K. Rohde. "Radon cumulative distribution transform subspace modeling for image classification." Journal of Mathematical Imaging and Vision 63, no. 9 (2021): 1185-1203. [[paper]](https://link.springer.com/article/10.1007/s10851-021-01052-0)
+
+- Ladosz, Pawel, Eseoghene Ben-Iwhiwhu, Jeffery Dick, Nicholas Ketz, Soheil Kolouri, Jeffrey L. Krichmar, Praveen K. Pilly, and Andrea Soltoggio. "Deep Reinforcement Learning With Modulated Hebbian Plus Q-Network Architecture." IEEE Transactions on Neural Networks and Learning Systems (2021). [[paper]](https://ieeexplore.ieee.org/abstract/document/9547670/)
+
+
 ## 2020
 - Kolouri, Soheil, Xuwang Yin, and Gustavo K. Rohde. "Neural Networks, Hypersurfaces, and Radon Transforms." *IEEE Signal Processing Magazine* (2020). [[paper]](https://ieeexplore.ieee.org/document/9127864), [[preprint]](https://arxiv.org/pdf/1907.02220.pdf)
 - Kolouri, Soheil, Aniruddha Saha, Hamed Pirsiavash, and Heiko Hoffmann. "Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs." *CVPR*(2020). [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kolouri_Universal_Litmus_Patterns_Revealing_Backdoor_Attacks_in_CNNs_CVPR_2020_paper.pdf), [[website]](https://umbcvision.github.io/Universal-Litmus-Patterns/)
@@ -17,10 +27,10 @@ author_profile: true
 - Kolouri, Soheil, Navid Naderializadeh, Gustavo K. Rohde, and Heiko Hoffmann. "Wasserstein Embedding for Graph Learning." arXiv preprint arXiv:2006.09430 (2020).[[paper]](https://arxiv.org/pdf/2006.09430.pdf), [[website]](https://skolouri.github.io/wegl/)
 - Yin, Xuwang, Abu Hasnat Mohammad Rubaiyat, Shiying Li, Soheil Kolouri, Akram Aldroubi, Jonathan M. Nichols, and Gustavo K. Rohde. "Radon cumulative distribution transform subspace modeling for image classification." arXiv preprint arXiv:2004.03669 (2020).[[paper]](https://arxiv.org/pdf/2004.03669.pdf)
 
-## 2019 
+## 2019
 - Kolouri, Soheil, Kimia Nadjahi, Umut Simsekly, Roland Badeau, and Gustavo K. Rohde. "Generalized Sliced-Wasserstein Distances." *NeurIPS* (2019). [[paper]](https://papers.nips.cc/paper/8319-generalized-sliced-wasserstein-distances.pdf)
 - Phillip E. Pope, Soheil Kolouri, Mohammad Rostami, Charles E. Martin, and Heiko Hoffmann. "Explainability Methods for Graph Convolutional Neural Networks." *CVPR* (2019). [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
-- Rostami, Mohammad, Soheil Kolouri, Eric Eaton, and Kyungnam Kim. "SAR Image Classification Using Few-Shot Cross-Domain Transfer Learning."  *CVPR-W*, (2019). [[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Rostami_SAR_Image_Classification_Using_Few-Shot_Cross-Domain_Transfer_Learning_CVPRW_2019_paper.pdf) 
+- Rostami, Mohammad, Soheil Kolouri, Eric Eaton, and Kyungnam Kim. "SAR Image Classification Using Few-Shot Cross-Domain Transfer Learning."  *CVPR-W*, (2019). [[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Rostami_SAR_Image_Classification_Using_Few-Shot_Cross-Domain_Transfer_Learning_CVPRW_2019_paper.pdf)
 - Kolouri, Soheil, Phillip E. Pope, Charles E. Martin, and Gustavo K. Rohde. "Sliced-Wasserstein Autoencoders." *ICLR* (2019). [[paper]](https://openreview.net/pdf?id=H1xaJn05FQ) [[code]](https://github.com/skolouri/swae)
 - Rostami, Mohammad, Soheil Kolouri, Eric Eaton, and Kyungnam Kim. "Deep Transfer Learning for Few-Shot SAR Image Classification." *Remote Sensing* 11, no. 11 (2019): 1374. [[paper]](https://www.mdpi.com/2072-4292/11/11/1374)
 - Rostami, Mohammad, Soheil Kolouri, and Praveen K. Pilly. "Complementary Learning for Overcoming Catastrophic Forgetting  Using Experience Replay." IJCAI (2019) [[paper]](https://www.ijcai.org/proceedings/2019/463)
