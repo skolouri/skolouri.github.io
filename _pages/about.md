@@ -15,9 +15,9 @@ I am recruiting motivated PhD students with strong mathematical background to wo
 
 
 ## News
-- I gave a talk at the One World Seminar on the Mathematics of Machine Learning focused on "Wasserstein Embeddings." ([Video](https://www.youtube.com/watch?v=xs9uibPODGk))
-- Our paper ['Pooling by Sliced Wasserstein Embedding'](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=25946) got accepted to NeurIPS 2021.
-- I joined Vanderbilt University as an Assistant Professor of Computer Science
+- I gave a talk at the One World Seminar on the Mathematics of Machine Learning focused on "Wasserstein Embeddings." ([Video](https://www.youtube.com/watch?v=xs9uibPODGk)) - Nov 24, 2021.
+- Our paper ['Pooling by Sliced Wasserstein Embedding'](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=25946) got accepted to NeurIPS 2021 - Oct 06, 2021.
+- I joined Vanderbilt University as an Assistant Professor of Computer Science - Aug 16, 2021.
 - Our paper ['Wasserstein Embedding for Graph Learning'](https://openreview.net/forum?id=AAes_3W-2z) got accepted to ICLR2021 for a poster presentation - Jan 07, 2021.
 - Our paper ['Statistical and Topological Properties of Sliced Probability Divergences'](https://neurips.cc/virtual/2020/public/poster_eefc9e10ebdc4a2333b42b2dbb8f27b6.html) got accepted to NeurIPS2020 for a spotlight presentation - Sep 25, 2020.
 - I gave an ECE Seminar talk on ['Sliced Probability Metrics for Next Generation Machine Learning'](https://engineering.virginia.edu/events/ece-department-seminar-5) at University of Virginia - Sep 11, 2020.
