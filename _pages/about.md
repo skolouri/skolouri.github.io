@@ -15,6 +15,8 @@ I am recruiting motivated PhD students with strong mathematical background to wo
 
 
 ## News
+- Our paper on ``Generalized Sliced Probability Metrics'' received the Best Paper Award from [IEEE ICASSP 2022](https://2022.ieeeicassp.org/view_paper.php?PaperNum=3608) - May 27, 2022
+- Our Machine Learning Seminars are now available on [YouTube!](https://www.youtube.com/watch?v=bJu17UlYhc4&list=PLExMLJgvoXpizhYU-phqbTFiRNNkICJ_L&index=1) - Feb 20, 2022
 - I gave a talk at the One World Seminar on the Mathematics of Machine Learning focused on "Wasserstein Embeddings." ([Video](https://www.youtube.com/watch?v=xs9uibPODGk)) - Nov 24, 2021.
 - Our paper ['Pooling by Sliced Wasserstein Embedding'](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=25946) got accepted to NeurIPS 2021 - Oct 06, 2021.
 - I joined Vanderbilt University as an Assistant Professor of Computer Science - Aug 16, 2021.
