@@ -18,7 +18,8 @@ I am recruiting motivated PhD students with strong mathematical background to wo
 
 
 ## News
-- Congratulations to my students Zihao (Harry) Wu (CS Undergrad) and Huy Tran for acceptance of their paper to IEEE ICASSP 2023. 
+- Congratulations to my postdoctoral research assistant, Dr. Yikun Bai, for acceptance of [his paper](https://arxiv.org/pdf/2212.08049.pdf) at CVPR 2023. 
+- Congratulations to my students Zihao (Harry) Wu (CS Undergrad) and Huy Tran for acceptance of [their paper](https://arxiv.org/pdf/2210.14797.pdf) to IEEE ICASSP 2023. 
 - Congratulations to my student Ali Abbasi for acceptance of [his paper](https://proceedings.mlr.press/v199/abbasi22a/abbasi22a.pdf) to the Proceedings of the Conference on Lifelong Learning Agents, 2022. 
 - Our paper on "Generalized Sliced Probability Metrics'' received the Best Paper Award from [IEEE ICASSP 2022](https://2022.ieeeicassp.org/view_paper.php?PaperNum=3608) - May 27, 2022
 - Our Machine Learning Seminars are now available on [YouTube!](https://www.youtube.com/watch?v=bJu17UlYhc4&list=PLExMLJgvoXpizhYU-phqbTFiRNNkICJ_L&index=1) - Feb 20, 2022
