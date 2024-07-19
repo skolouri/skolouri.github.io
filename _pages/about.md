@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at the Department of Computer Science at Vanderbilt University. My research is motivated by the challenges facing today’s machine learning (ML) algorithms for deployment in critical physical world applications. My research lab, Machine Intelligence and Neural Technologies (MINT), focuses on creating the next generation of core machine learning algorithms that are mathematically grounded, uncertainty aware, label-efficient, and can continually learn from the nonstationary and never-ending data stream.  Among recent directions that my team and I have contributed to are: 1) single and multi-agent lifelong learning machines as part of three Defense Advanced Research Projects Agency (DARPA) programs, 2) uncertainty-aware deep learning as part of the DARPA Enabling Confidence program, 3) geometric deep learning, and 4) applications of optimal mass transportation theory in ML and computer vision. I am an inventor of over 20 issued patents and have over 50 published articles in high-impact machine learning, computer vision, and signal processing journals and conferences. 
+I am an assistant professor at the Department of Computer Science at Vanderbilt University. My research is motivated by the challenges facing today’s machine learning (ML) algorithms for deployment in critical physical world applications. My research lab, Machine Intelligence and Neural Technologies (MINT), focuses on creating the next generation of core machine learning algorithms that are mathematically grounded, uncertainty aware, label-efficient, and can continually learn from the nonstationary and never-ending data stream.  Among recent directions that my team and I have contributed to are: 1) single and multi-agent lifelong learning machines as part of three Defense Advanced Research Projects Agency (DARPA) programs, 2) uncertainty-aware deep learning as part of the DARPA Enabling Confidence program, 3) geometric deep learning, and 4) applications of optimal mass transportation theory in ML and computer vision. I am an inventor of over 20 issued patents and have over 50 published articles in high-impact machine learning, computer vision, and signal processing journals and conferences.
 
 
 <br>
@@ -18,9 +18,12 @@ I am recruiting motivated PhD students with strong mathematical background to wo
 
 
 ## News
-- Congratulations to my postdoctoral research assistant, Dr. Yikun Bai, for acceptance of [his paper](https://arxiv.org/pdf/2212.08049.pdf) at CVPR 2023. 
-- Congratulations to my students Zihao (Harry) Wu (CS Undergrad) and Huy Tran for acceptance of [their paper](https://arxiv.org/pdf/2210.14797.pdf) to IEEE ICASSP 2023. 
-- Congratulations to my student Ali Abbasi for acceptance of [his paper](https://proceedings.mlr.press/v199/abbasi22a/abbasi22a.pdf) to the Proceedings of the Conference on Lifelong Learning Agents, 2022. 
+- Congratulations to  Huy Tran and the team for acceptance of their paper,  "[Stereographic Spherical Sliced Wasserstein Distances](https://arxiv.org/pdf/2402.02345)," to ICML 2024.
+-Our collaborative paper on  "[A Collective AI via Lifelong Learning and Sharing at the Edge](https://www.nature.com/articles/s42256-024-00800-2)" is now published at Nature Machine Intelligence.
+- Congratulations to Ali Abbasi for acceptance of his paper, "[BrainWash - A Poisoning Attack to Forget in Continual Learning](https://openaccess.thecvf.com/content/CVPR2024/html/Abbasi_BrainWash_A_Poisoning_Attack_to_Forget_in_Continual_Learning_CVPR_2024_paper.html)" to CVPR 2024
+- Congratulations to Dr. Yikun Bai for acceptance of [his paper](https://arxiv.org/pdf/2212.08049.pdf) at CVPR 2023.
+- Congratulations to my students Zihao (Harry) Wu (CS Undergrad) and Huy Tran for acceptance of [their paper](https://arxiv.org/pdf/2210.14797.pdf) to IEEE ICASSP 2023.
+- Congratulations to my student Ali Abbasi for acceptance of [his paper](https://proceedings.mlr.press/v199/abbasi22a/abbasi22a.pdf) to the Proceedings of the Conference on Lifelong Learning Agents, 2022.
 - Our paper on "Generalized Sliced Probability Metrics'' received the Best Paper Award from [IEEE ICASSP 2022](https://2022.ieeeicassp.org/view_paper.php?PaperNum=3608) - May 27, 2022
 - Our Machine Learning Seminars are now available on [YouTube!](https://www.youtube.com/watch?v=bJu17UlYhc4&list=PLExMLJgvoXpizhYU-phqbTFiRNNkICJ_L&index=1) - Feb 20, 2022
 - I gave a talk at the One World Seminar on the Mathematics of Machine Learning focused on "Wasserstein Embeddings." ([Video](https://www.youtube.com/watch?v=xs9uibPODGk)) - Nov 24, 2021.
