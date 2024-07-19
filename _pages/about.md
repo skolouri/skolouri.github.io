@@ -19,7 +19,7 @@ I am recruiting motivated PhD students with strong mathematical background to wo
 
 ## News
 - Congratulations to  Huy Tran and the team for acceptance of their paper,  "[Stereographic Spherical Sliced Wasserstein Distances](https://arxiv.org/pdf/2402.02345)," to ICML 2024.
--Our collaborative paper on  "[A Collective AI via Lifelong Learning and Sharing at the Edge](https://www.nature.com/articles/s42256-024-00800-2)" is now published at Nature Machine Intelligence.
+- Our collaborative paper on  "[A Collective AI via Lifelong Learning and Sharing at the Edge](https://www.nature.com/articles/s42256-024-00800-2)" is now published at Nature Machine Intelligence.
 - Congratulations to Ali Abbasi for acceptance of his paper, "[BrainWash - A Poisoning Attack to Forget in Continual Learning](https://openaccess.thecvf.com/content/CVPR2024/html/Abbasi_BrainWash_A_Poisoning_Attack_to_Forget_in_Continual_Learning_CVPR_2024_paper.html)" to CVPR 2024
 - Congratulations to Dr. Yikun Bai for acceptance of [his paper](https://arxiv.org/pdf/2212.08049.pdf) at CVPR 2023.
 - Congratulations to my students Zihao (Harry) Wu (CS Undergrad) and Huy Tran for acceptance of [their paper](https://arxiv.org/pdf/2210.14797.pdf) to IEEE ICASSP 2023.
